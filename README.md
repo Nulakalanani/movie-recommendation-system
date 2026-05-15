@@ -4,7 +4,9 @@ CineMatch is an AI-powered movie recommendation web application that suggests si
 
 The application analyzes movie metadata such as genres, keywords, cast, crew, and plot overviews to generate intelligent recommendations through an interactive Streamlit interface.
 
-🔗 **Live Demo:** *(Add your deployed Streamlit link here after deployment)*
+🔗 **Live Demo:** *https://cinematch-recommendation-system.streamlit.app/*
+## 📸 Preview : <img width="1782" height="971" alt="image" src="https://github.com/user-attachments/assets/a0a6e2f3-39a2-429e-966e-d309315567d2" />
+
 
 ---
 
@@ -148,11 +150,6 @@ The machine learning pipeline, preprocessing workflow, recommendation logic unde
 
 ---
 
-## 📸 Preview
-
-(Add your deployed app screenshots here)
-
----
 
 ## 👨‍💻 Author
 
